@@ -1,4 +1,4 @@
-We are organizing again NewInML at NeurIPS 2022! We are updating the website frequently. Stay tuned! If you have any information, please contact us by: contactnewinml@gmail.com
+We plan to organize again NewInML at NeurIPS 2022! We are updating the website frequently. Stay tuned! If you have any question, please contact us by: contactnewinml@gmail.com
 
 # Program
 

@@ -3,7 +3,7 @@ We plan to organize again NewInML at NeurIPS 2022! We are updating the website f
 # Program
 
 This will be a whole day session. 
-Tentative program: TBD
+Tentative program: 
 
 |**Time**  | **Event**|
 |-|--------------------------------------------------|
@@ -15,7 +15,7 @@ Tentative program: TBD
 |12:30 - 14:00| Lunch |
 |14:00 - 15:00| Four contributed talks of 10 min + 5 min questions|
 |16:00 - 17:00| **Writing session**: Reka Mihalka and Simon Milligan (ETH Zurich)|
-|17:00 - 18:00| **Job negociation talk**: Brian Liou (Rora)|
+|17:00 - 18:00| **Job negociation talk**: Brian Liou (Team Rora)|
 
 # Organizers
 
@@ -24,7 +24,7 @@ Tentative program: TBD
 - Moksh Jain (MILA)
 - Isabelle Guyon (University Paris-Saclay, ChaLearn)
 
-More organizers to be added...
+More organizers to be added soon.
 
 # Sponsors
 

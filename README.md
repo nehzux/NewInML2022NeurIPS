@@ -21,7 +21,7 @@ Tentative program:
 
 - Zhen Xu (4Paradigm)
 - Jie Fu (BAAI)
-- Moksh Jain (MILA)
+- Alexandra Volokhova (MILA)
 - Isabelle Guyon (University Paris-Saclay, ChaLearn)
 
 More organizers to be added soon.

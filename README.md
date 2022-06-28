@@ -9,7 +9,7 @@ Tentative program: TBD
 |-|--------------------------------------------------|
 |08:30 - 10:00| **Keynote talk**  |
 |10:00 - 10:30| Coffee break |
-|10:30 - 11:15| **Career talk 1 (Academia)** |
+|10:30 - 11:15| **Career talk 1 (Academia)**: Rex Ying (Yale University) |
 |11:15 - 11:30| Break |
 |11:30 - 12:10| **Career talk 2 (Industry)**|
 |12:30 - 14:00| Lunch |

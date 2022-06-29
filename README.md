@@ -1,5 +1,9 @@
 We plan to organize again NewInML at NeurIPS 2022! We are updating the website frequently. Stay tuned! If you have any question, please contact us by: contactnewinml@gmail.com
 
+# Mission
+
+With the booming research in artificial intelligence, the community is welcoming every day many newcomers. A lack of mentoring and inclusive environment becomes gradually significant. Our goal is to welcome new researchers in the community and provide them with some guidance to contribute to Machine Learning research fully and effectively. 
+
 # Program
 
 This will be a whole day session. 
@@ -21,7 +25,7 @@ Tentative program:
 
 - Zhen Xu (4Paradigm)
 - Jie Fu (BAAI)
-- Alexandra Volokhova (MILA)
+- Alexandra Volokhova (Mila)
 - Isabelle Guyon (University Paris-Saclay, ChaLearn)
 
 More organizers to be added soon.

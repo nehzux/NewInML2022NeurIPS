@@ -1,4 +1,4 @@
-We plan to organize again NewInML at NeurIPS 2022! We are updating the website frequently. Stay tuned! If you have any question, please contact us by: contactnewinml@gmail.com
+NewInML will be held at NeurIPS, Nov 28th 2022. We are updating the website frequently. Stay tuned! If you have any question, please contact us by: contactnewinml@gmail.com
 
 # Mission
 
@@ -6,7 +6,8 @@ With the booming research in artificial intelligence, the community is welcoming
 
 # Program
 
-This will be a whole day session. 
+**Session day: Nov 28th, 2022** This will be a whole day session. 
+
 Tentative program: 
 
 |**Time**  | **Event**|
@@ -25,10 +26,10 @@ Tentative program:
 
 - Zhen Xu (4Paradigm)
 - Jie Fu (BAAI)
+- Mélisande Teng (Mila)
 - Alexandra Volokhova (Mila)
+- Romain Egele (University Paris-Saclay)
 - Isabelle Guyon (University Paris-Saclay, ChaLearn)
-
-More organizers to be added soon.
 
 # Sponsors
 

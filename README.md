@@ -12,11 +12,11 @@ Tentative program:
 
 |**Time**  | **Event**|
 |-|--------------------------------------------------|
-|08:30 - 10:00| **Keynote talk**  |
+|08:30 - 10:00| **Keynote talk**: Yoshua Bengio (Mila & U. Montreal)  |
 |10:00 - 10:30| Coffee break |
-|10:30 - 11:15| **Career talk 1 (Academia)**: Rex Ying (Yale University) |
+|10:30 - 11:15| **Career talk 1**: Rex Ying (Yale University) |
 |11:15 - 11:30| Break |
-|11:30 - 12:10| **Career talk 2 (Industry)**|
+|11:30 - 12:10| **Career talk 2**|
 |12:30 - 14:00| Lunch |
 |14:00 - 15:00| Four contributed talks of 10 min + 5 min questions|
 |16:00 - 17:00| **Writing session**: Reka Mihalka and Simon Milligan (ETH Zurich)|

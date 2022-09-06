@@ -18,7 +18,7 @@ Tentative program:
 |09:00|07:00|16:00|23:00| Social break (all regions) |
 |10:00|08:00|17:00|00:00| **Keynote talk**: Yoshua Bengio (Mila & U. Montreal) |
 |11:00|09:00|18:00|01:00| Contributed talk * 2 |
-|12:00|10:00|19:00|02:00| Invited talk 2 |
+|12:00|10:00|19:00|02:00| **Invited talk**: Rex Ying (Yale University) |
 |13:00|11:00|20:00|03:00| Social break (Paris + San F + New O) |
 |14:00|12:00|21:00|04:00| **Writing session**: Reka Mihalka and Simon Milligan (ETH Zurich)|
 |15:00|13:00|22:00|05:00| Contributed talk * 2 |

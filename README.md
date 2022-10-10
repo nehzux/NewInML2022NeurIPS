@@ -22,7 +22,7 @@ Tentative program:
 |13:00|20:00|03:00| Social break (Paris + New O) |
 |14:00|21:00|04:00| **Writing session**: Reka Mihalka and Simon Milligan (ETH Zurich)|
 |15:00|22:00|05:00| Contributed talk * 2 |
-|16:00|23:00|06:00| **Job negociation talk**: Brian Liou (Team Rora)|
+|16:00|23:00|06:00| **ML job negociation talk**: Nicole Bannon (Team Rora)|
 |17:00|00:00|07:00| Closing social (New O + San F) |
 
 # Organizers

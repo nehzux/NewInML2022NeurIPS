@@ -8,22 +8,21 @@ With the booming research in artificial intelligence, the community is welcoming
 
 **Session day: Nov 28th, 2022** This will be a whole day session. 
 
-Tentative program: 
+Tentative program: (New Orleans)
 
-|**New Orleans**  | **Paris** | **Beijing** | **Event**|
-|-|-|-|--------------------------------------------------|
-|06:00|13:00|20:00| Welcome social (Beijing + Paris) |
-|07:00|14:00|21:00| Invited talk 1 |
-|08:00|15:00|22:00| Contributed talk * 2 |
-|09:00|16:00|23:00| Social break (all regions) |
-|10:00|17:00|00:00| **Keynote talk**: Yoshua Bengio (Mila & U. Montreal) |
-|11:00|18:00|01:00| Contributed talk * 2 |
-|12:00|19:00|02:00| **Invited talk**: Rex Ying (Yale University) |
-|13:00|20:00|03:00| Social break (Paris + New O) |
-|14:00|21:00|04:00| **Writing session**: Reka Mihalka and Simon Milligan (ETH Zurich)|
-|15:00|22:00|05:00| Contributed talk * 2 |
-|16:00|23:00|06:00| **ML job negociation talk**: Nicole Bannon (Team Rora)|
-|17:00|00:00|07:00| Closing social (New O + San F) |
+|**Time**  | **Event**|
+|-|--------------------------------------------------|
+|09:00 - 10:00| **Keynote talk**: Yoshua Bengio (Mila & U. Montreal) |
+|10:00 - 10:30| QA and break |
+|10:30 - 11:30| Talk (Paris) |
+|11:30 - 12:00| QA and break |
+|12:00 - 13:00| Lunch |
+|13:00 - 14:00| **Invited talk**: Rex Ying (Yale University) |
+|14:00 - 14:30| QA and break |
+|14:30 - 15:30| **Writing session**: Reka Mihalka and Simon Milligan (ETH Zurich) |
+|15:30 - 16:00| QA and break |
+|16:00 - 17:00| **ML job negociation talk**: Nicole Bannon (Team Rora) |
+|17:00 - 17:30| QA and break |
 
 # Organizers
 

@@ -10,8 +10,8 @@ With the booming research in artificial intelligence, the community is welcoming
 
 Tentative program: (New Orleans)
 
-|**Time**  | **Event**|
-|-|--------------------------------------------------|
+|**Time** (New Orleans)  | **Event**|
+|---------------|--------------------------------------------------|
 |09:00 - 10:00| **Keynote talk**: Yoshua Bengio (Mila & U. Montreal) |
 |10:00 - 10:30| QA and break |
 |10:30 - 11:30| Talk (Paris) |
@@ -23,6 +23,17 @@ Tentative program: (New Orleans)
 |15:30 - 16:00| QA and break |
 |16:00 - 17:00| **ML job negociation talk**: Nicole Bannon (Team Rora) |
 |17:00 - 17:30| QA and break |
+
+Tentative program: (Paris)
+
+| **Time** (Paris) | **Event** |
+|---------------| --------------------------- |
+| 15:00 - 16:00 | Poster Session |
+| 16:00 - 17:00 | **Keynote talk**: Yoshua Bengio (Mila & U. Montreal) |
+| 17:00 - 17:30 | QA and break |
+| 17:30 - 18:30 | Talk on Ethic in AI |
+| 18:30 - 19:30 | Poster Session |
+
 
 # Organizers
 

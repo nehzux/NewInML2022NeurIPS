@@ -49,10 +49,6 @@ Tentative program: (Paris)
 - 4Paradigm
 - BAAI
 - ChaLearn
-- D.E Shaw
-- DeepMind
-- G-research
-- Microsoft
 
 # NewInML in the past:
 - [NeurIPS 2019](https://nehzux.github.io/NewInML2019/)

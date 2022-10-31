@@ -24,7 +24,8 @@ Tentative program: (New Orleans)
 |16:00 - 17:00| **ML job negociation talk**: Nicole Bannon (Team Rora) |
 |17:00 - 17:30| QA and break |
 
-Tentative program: (Paris)
+
+Tentative program: (Paris) **Registration link** [https://forms.gle/uSyBcAp2jwqrFFXLA](https://forms.gle/uSyBcAp2jwqrFFXLA)
 
 | **Time** (Paris) | **Event** |
 |---------------| --------------------------- |

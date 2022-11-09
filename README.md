@@ -48,6 +48,7 @@ Tentative program: (Paris) **Registration link** [https://forms.gle/uSyBcAp2jwqr
 
 # Sponsors
 
+- Google
 - 4Paradigm
 - BAAI
 - ChaLearn

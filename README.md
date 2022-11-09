@@ -14,10 +14,10 @@ Tentative program: (New Orleans)
 |---------------|--------------------------------------------------|
 |09:00 - 10:00| **Keynote talk**: Yoshua Bengio (Mila & U. Montreal) |
 |10:00 - 10:30| QA and break |
-|10:30 - 11:30| Talk (Paris) |
+|10:30 - 11:30| **Ethics in AI**: (Paris)|
 |11:30 - 12:00| QA and break |
 |12:00 - 13:00| Lunch |
-|13:00 - 14:00| **Invited talk**: Rex Ying (Yale University) |
+|13:00 - 14:00| **Career talk**: Rex Ying (Yale University) |
 |14:00 - 14:30| QA and break |
 |14:30 - 15:30| **Writing session**: Reka Mihalka and Simon Milligan (ETH Zurich) |
 |15:30 - 16:00| QA and break |
@@ -32,7 +32,7 @@ Tentative program: (Paris) **Registration link** [https://forms.gle/uSyBcAp2jwqr
 | 15:00 - 16:00 | Poster Session |
 | 16:00 - 17:00 | **Keynote talk**: Yoshua Bengio (Mila & U. Montreal) |
 | 17:00 - 17:30 | QA and break |
-| 17:30 - 18:30 | Talk on Ethic in AI |
+| 17:30 - 18:30 | **Ethics in AI**: (Paris)|
 | 18:30 - 19:30 | Poster Session |
 
 
@@ -42,7 +42,8 @@ Tentative program: (Paris) **Registration link** [https://forms.gle/uSyBcAp2jwqr
 - Jie Fu (BAAI)
 - Mélisande Teng (Mila)
 - Alexandra Volokhova (Mila)
-- Romain Egele (University Paris-Saclay)
+- Romain Egele (Argonne National Laboratory & Université Paris-Saclay)
+- Eulalie Boucher (LERMA, Observatoire de Paris)
 - Isabelle Guyon (University Paris-Saclay, ChaLearn)
 
 # Sponsors

@@ -14,7 +14,7 @@ Tentative program: (New Orleans)
 |---------------|--------------------------------------------------|
 |09:00 - 10:00| **Keynote talk**: Yoshua Bengio (Mila & U. Montreal) |
 |10:00 - 10:30| QA and break |
-|10:30 - 11:30| **Ethics in AI**: (Paris)|
+|10:30 - 11:30| **Ethics in AI**: Jean-Gabriel Ganascia (Sorbonne Université)|
 |11:30 - 12:00| QA and break |
 |12:00 - 13:00| Lunch |
 |13:00 - 14:00| **Career talk**: Rex Ying (Yale University) |
@@ -32,7 +32,7 @@ Tentative program: (Paris) **Registration link** [https://forms.gle/uSyBcAp2jwqr
 | 15:00 - 16:00 | Poster Session |
 | 16:00 - 17:00 | **Keynote talk**: Yoshua Bengio (Mila & U. Montreal) |
 | 17:00 - 17:30 | QA and break |
-| 17:30 - 18:30 | **Ethics in AI**: (Paris)|
+| 17:30 - 18:30 | **Ethics in AI**: Jean-Gabriel Ganascia (Sorbonne Université)|
 | 18:30 - 19:30 | Poster Session |
 
 

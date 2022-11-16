@@ -35,6 +35,12 @@ Tentative program: (Paris) **Registration link** [https://forms.gle/uSyBcAp2jwqr
 | 17:30 - 18:30 | **Ethics in AI**: Jean-Gabriel Ganascia (Sorbonne Université)|
 | 18:30 - 19:30 | Poster Session |
 
+# Speakers
+
+* Title of the Presentation: **Ethics of AI and Large Scale ML — Beyond Rules and Regulations**
+* Speaker: Jean-Gabriel Ganascia (Sorbonne University)
+* Abstract of the Presentation: _For more than a lustrum now, numerous ethics committees wrote reports about ethics of AI and ML, and make advices about data privacy, fairness of algorithms, absence of bias, trustworthiness of AI systems etc. However, when pursuing a detailed examination, these more or less compulsory recommendations appear to be both contradictory and discussable. Our presentation will first give a look on the limitations of the many provisional regulations about AI and large scale ML that are under adoption in the EU and in many other places in the world. Then it will discuss the needs for robustness and evaluation of AI systems, especially of AI systems that are based on ML techniques. It will show the difficulties to make such evaluations relevant in many different fields, for instance in natural language generation where the notion of bias is so difficult to appreciate, and more generally in fields where there is no clear specification of what the AI system should be intended to do. It will end with some proposals for a design of AI systems that be neither regulatory nor normative but ethical._
+
 
 # Organizers
 
@@ -44,6 +50,7 @@ Tentative program: (Paris) **Registration link** [https://forms.gle/uSyBcAp2jwqr
 - Alexandra Volokhova (Mila)
 - Romain Egele (Argonne National Laboratory & Université Paris-Saclay)
 - Eulalie Boucher (LERMA, Observatoire de Paris)
+- Franck Bardol (Paris Machine Learning)
 - Isabelle Guyon (University Paris-Saclay, ChaLearn)
 
 # Sponsors

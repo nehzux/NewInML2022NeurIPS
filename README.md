@@ -8,7 +8,7 @@ With the booming research in artificial intelligence, the community is welcoming
 
 **Session day: Nov 28th, 2022** This will be a whole day session. 
 
-Tentative program: (New Orleans)
+Tentative program: (New Orleans) **Registration link** [https://forms.gle/ZQ1bEiwgEvpsByx26](https://forms.gle/ZQ1bEiwgEvpsByx26)
 
 |**Time** (New Orleans)  | **Event**|
 |---------------|--------------------------------------------------|

@@ -14,7 +14,7 @@ With the booming research in artificial intelligence, the community is welcoming
 
 |**Time** (New Orleans)  | **Event**|
 |---------------|--------------------------------------------------|
-|09:00 - 10:00| **Keynote talk**: Yoshua Bengio (Mila & U. Montreal) |
+|09:00 - 10:00| **Keynote talk**: Yoshua Bengio (Mila & U. Montreal) - A Deep Learning Journey |
 |10:00 - 10:30| QA and break |
 |10:30 - 11:30| **Ethics in AI**: Jean-Gabriel Ganascia (Sorbonne Université)|
 |11:30 - 12:00| QA and break |

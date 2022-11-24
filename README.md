@@ -8,7 +8,9 @@ With the booming research in artificial intelligence, the community is welcoming
 
 **Session day: Nov 28th, 2022** This will be a whole day session. 
 
-Tentative program: (New Orleans) **Registration link** [https://forms.gle/ZQ1bEiwgEvpsByx26](https://forms.gle/ZQ1bEiwgEvpsByx26)
+## NewInML in New Orleans
+
+**Registration link** [https://forms.gle/ZQ1bEiwgEvpsByx26](https://forms.gle/ZQ1bEiwgEvpsByx26)
 
 |**Time** (New Orleans)  | **Event**|
 |---------------|--------------------------------------------------|
@@ -25,7 +27,7 @@ Tentative program: (New Orleans) **Registration link** [https://forms.gle/ZQ1bEi
 |17:00 - 17:30| QA and break |
 
 
-Tentative program: (Paris) **Registration link** [https://forms.gle/uSyBcAp2jwqrFFXLA](https://forms.gle/uSyBcAp2jwqrFFXLA)
+## NewInML in Paris
 
 | **Time** (Paris) | **Event** |
 |---------------| --------------------------- |
@@ -34,6 +36,11 @@ Tentative program: (Paris) **Registration link** [https://forms.gle/uSyBcAp2jwqr
 | 17:00 - 17:30 | QA and break |
 | 17:30 - 18:30 | **Ethics in AI**: Jean-Gabriel Ganascia (Sorbonne Université)|
 | 18:30 - 19:30 | Poster Session |
+
+**Coming to NewInML in Paris**
+
+Address: 4 Pl. Jussieu, 75005 Paris (Sorbonne Center for Artificial Intelligence - SCAI)
+![Accessing SCAI](assets/plan-newinml-paris.png)
 
 # Speakers
 
@@ -62,6 +69,7 @@ Tentative program: (Paris) **Registration link** [https://forms.gle/uSyBcAp2jwqr
 - [LightOn](https://lighton.ai)
 
 # NewInML in the past:
+
 - [NeurIPS 2019](https://nehzux.github.io/NewInML2019/)
 - [ICML 2020](https://nehzux.github.io/NewInML2020ICML/)
 - [NeurIPS 2020](https://vanyacohen.github.io/NewInML)

@@ -59,6 +59,7 @@ Tentative program: (Paris) **Registration link** [https://forms.gle/uSyBcAp2jwqr
 - 4Paradigm
 - BAAI
 - ChaLearn
+- [LightOn](https://lighton.ai)
 
 # NewInML in the past:
 - [NeurIPS 2019](https://nehzux.github.io/NewInML2019/)

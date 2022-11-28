@@ -1,4 +1,6 @@
-NewInML will be held at NeurIPS, Nov 28th 2022. We are updating the website frequently. Stay tuned! If you have any question, please contact us by: contactnewinml@gmail.com
+NewInML will be held at NeurIPS, Nov 28th 2022, Room 295. We are updating the website frequently. Stay tuned! If you have any question, please contact us by: contactnewinml@gmail.com
+
+NeurIPS website: [https://neurips.cc/virtual/2022/mentorship/63207](https://neurips.cc/virtual/2022/mentorship/63207)
 
 # Mission
 

@@ -16,7 +16,7 @@ With the booming research in artificial intelligence, the community is welcoming
 |---------------|--------------------------------------------------|
 |09:00 - 10:00| **Keynote talk**: Yoshua Bengio (Mila & U. Montreal) - A Deep Learning Journey [(Slides)](assets/YoshuaBengio-NewInML-NeurIPS-28nov2022.pdf) |
 |10:00 - 10:30| QA and break |
-|10:30 - 11:30| **Ethics in AI**: Jean-Gabriel Ganascia (Sorbonne Université)|
+|10:30 - 11:30| **Ethics of AI**: Jean-Gabriel Ganascia (Sorbonne Université) - Ethics of AI and Large Scale Machine Learning [(Slides)](assets/JGGanascia-NewInML-NeurIPS-28nov2022.pdf)|
 |11:30 - 12:00| QA and break |
 |12:00 - 13:00| Lunch |
 |13:00 - 14:00| **Career talk**: Rex Ying (Yale University) |
@@ -31,11 +31,11 @@ With the booming research in artificial intelligence, the community is welcoming
 
 | **Time** (Paris) | **Event** |
 |---------------| --------------------------- |
-| 15:00 - 16:00 | Poster Session |
-| 16:00 - 17:00 | **Keynote talk**: Yoshua Bengio (Mila & U. Montreal) |
+| 15:00 - 16:00 | Welcome and Poster Session |
+| 16:00 - 17:00 | **Keynote talk**: Yoshua Bengio (Mila & U. Montreal) - A Deep Learning Journey [(Slides)](assets/YoshuaBengio-NewInML-NeurIPS-28nov2022.pdf)|
 | 17:00 - 17:30 | QA and break |
-| 17:30 - 18:30 | **Ethics in AI**: Jean-Gabriel Ganascia (Sorbonne Université)|
-| 18:30 - 19:30 | Poster Session |
+| 17:30 - 18:30 | **Ethics of AI**: Jean-Gabriel Ganascia (Sorbonne Université) - Ethics of AI and Large Scale Machine Learning [(Slides)](assets/JGGanascia-NewInML-NeurIPS-28nov2022.pdf)|
+| 18:30 - 19:30 | Poster Session and Networking |
 
 **Coming to NewInML in Paris**
 

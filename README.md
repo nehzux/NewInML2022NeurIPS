@@ -23,7 +23,7 @@ With the booming research in artificial intelligence, the community is welcoming
 |12:00 - 13:00| Lunch |
 |13:00 - 14:00| **Career talk**: Rex Ying (Yale University) |
 |14:00 - 14:30| QA and break |
-|14:30 - 15:30| **Writing session**: Reka Mihalka and Simon Milligan (ETH Zurich) [(necessary) Zoom Link](https://ethz.zoom.us/j/67774213023), [(Slide)](assets/managing_expectations_in_scientific_writing.pdf) |
+|14:30 - 15:30| **Writing session**: Reka Mihalka and Simon Milligan (ETH Zurich) [(necessary) Zoom Link](https://ethz.zoom.us/j/67774213023) & [(Slides)](assets/managing_expectations_in_scientific_writing.pdf) |
 |15:30 - 16:00| QA and break |
 |16:00 - 17:00| **ML job negociation talk**: Nicole Bannon (Team Rora) |
 |17:00 - 17:30| QA and break |

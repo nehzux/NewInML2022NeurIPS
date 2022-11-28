@@ -6,7 +6,7 @@ With the booming research in artificial intelligence, the community is welcoming
 
 # Program
 
-**Session day: Nov 28th, 2022** This will be a whole day session. 
+**Session day: Nov 28th, 2022 Room 295** This will be a whole day session. 
 
 ## NewInML in New Orleans
 

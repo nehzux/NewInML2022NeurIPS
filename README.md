@@ -56,6 +56,8 @@ Address: 4 Pl. Jussieu, 75005 Paris (Sorbonne Center for Artificial Intelligence
 - Zhen Xu (4Paradigm)
 - Jie Fu (BAAI)
 - Mélisande Teng (Mila)
+- Daochen Zha (Rice University)
+- Minhao Fan (Rice University)
 - Alexandra Volokhova (Mila)
 - Romain Egele (Argonne National Laboratory & Université Paris-Saclay)
 - Eulalie Boucher (LERMA, Observatoire de Paris)

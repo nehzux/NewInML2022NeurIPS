@@ -21,7 +21,7 @@ With the booming research in artificial intelligence, the community is welcoming
 |10:30 - 11:30| **Ethics of AI**: Jean-Gabriel Ganascia (Sorbonne Université) - Ethics of AI and Large Scale Machine Learning [(Slides)](assets/JGGanascia-NewInML-NeurIPS-28nov2022.pdf)|
 |11:30 - 12:00| QA and break |
 |12:00 - 13:00| Lunch |
-|13:00 - 14:00| **Career talk**: Rex Ying (Yale University) |
+|13:00 - 14:00| **Career talk**: Rex Ying (Yale University) [(Slides)](assets/RexYing-NewInML-NeurIPS-28nov2022.pdf) |
 |14:00 - 14:30| QA and break |
 |14:30 - 15:30| **Writing session**: Reka Mihalka and Simon Milligan (ETH Zurich) [(Slides)](assets/managing_expectations_in_scientific_writing.pdf) & [(Handout)](assets/Handout_writing_session.pdf) |
 |15:30 - 16:00| QA and break |

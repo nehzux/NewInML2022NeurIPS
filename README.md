@@ -2,6 +2,11 @@ NewInML will be held at NeurIPS, Nov 28th 2022, **Room 295**. We are updating th
 
 NeurIPS website (**Recording** & online QA questions): [https://neurips.cc/virtual/2022/mentorship/63207](https://neurips.cc/virtual/2022/mentorship/63207)
 
+# Spotlights at NeurIPS 2022
+
+![](figs/01.jpg?raw=true)
+![](figs/02.jpg?raw=true)
+
 # Mission
 
 With the booming research in artificial intelligence, the community is welcoming every day many newcomers. A lack of mentoring and inclusive environment becomes gradually significant. Our goal is to welcome new researchers in the community and provide them with some guidance to contribute to Machine Learning research fully and effectively. 

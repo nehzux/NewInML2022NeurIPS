@@ -4,8 +4,8 @@ NeurIPS website (**Recording** & online QA questions): [https://neurips.cc/virtu
 
 # Spotlights at NeurIPS 2022
 
-![](figs/01.jpg?raw=true)
-![](figs/02.jpg?raw=true)
+![](assets/01.jpg?raw=true)
+![](assets/02.jpg?raw=true)
 
 # Mission
 
